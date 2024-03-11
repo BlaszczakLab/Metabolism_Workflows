@@ -26,4 +26,6 @@ df <- df %>%
   geom_line(color = "aquamarine") +
   theme_bw())
 
+
+print(df)
 # End of script.
